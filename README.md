@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30877996/README.md)
 # AS2E — Site Vitrine
 
 A marketing/showcase website for **AS2E** (Automation Systems & Energy Efficiency), a Tunisian company specializing in industrial automation, robotics, and energy efficiency, based in Ariana (La Soukra).
